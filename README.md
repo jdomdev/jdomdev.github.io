@@ -1,2 +1,2 @@
-# john-sunday.github.io
-john-sunday.github.io/john-sunday
+# jdomdev.github.io
+jdomdev.github.io/jdomdev
